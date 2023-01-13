@@ -1,0 +1,16 @@
+C:\Users\Stagista1\Desktop\Morra Cinese\Morra Cinese\bin\Debug\Morra Cinese.exe.config
+C:\Users\Stagista1\Desktop\Morra Cinese\Morra Cinese\bin\Debug\Morra Cinese.exe
+C:\Users\Stagista1\Desktop\Morra Cinese\Morra Cinese\bin\Debug\Morra Cinese.pdb
+C:\Users\Stagista1\Desktop\Morra Cinese\Morra Cinese\obj\Debug\Morra Cinese.csprojResolveAssemblyReference.cache
+C:\Users\Stagista1\Desktop\Morra Cinese\Morra Cinese\obj\Debug\Morra_Cinese.Properties.Resources.resources
+C:\Users\Stagista1\Desktop\Morra Cinese\Morra Cinese\obj\Debug\Morra Cinese.csproj.GenerateResource.Cache
+C:\Users\Stagista1\Desktop\Morra Cinese\Morra Cinese\obj\Debug\Morra Cinese.exe
+C:\Users\Stagista1\Desktop\Morra Cinese\Morra Cinese\obj\Debug\Morra Cinese.pdb
+C:\Users\Stagista1\Desktop\Morra Cinese\Morra Cinese\obj\Debug\Morra_Cinese.Menu.resources
+C:\Users\Stagista1\Desktop\Morra Cinese\Morra Cinese\obj\Debug\Morra_Cinese.Regole.resources
+C:\Users\Stagista1\Desktop\Morra Cinese\Morra Cinese\obj\Debug\Morra_Cinese.Gioco.resources
+C:\Users\Stagista1\Desktop\Morra Cinese\Morra Cinese\obj\Debug\Morra_Cinese.Dati.resources
+C:\Users\Stagista1\Desktop\Morra Cinese\Morra Cinese\obj\Debug\Morra_Cinese.Statistiche.resources
+C:\Users\Pc Cameretta\Desktop\Progetti Raffaele\Raffaele_Serrapica Morra\Morra Cinese\bin\Debug\Morra Cinese.exe.config
+C:\Users\Pc Cameretta\Desktop\Progetti Raffaele\Raffaele_Serrapica Morra\Morra Cinese\obj\Debug\Morra Cinese.exe
+C:\Users\Pc Cameretta\Desktop\Progetti Raffaele\Raffaele_Serrapica Morra\Morra Cinese\obj\Debug\Morra Cinese.pdb
